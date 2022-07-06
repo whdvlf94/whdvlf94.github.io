@@ -41,7 +41,8 @@ WSGI 서버는 **<u>웹 서버와 WSGI 애플리케이션 중간에 위치하고
 ASGI도 WSGI와 동일하게 웹 서버 및 애플리케이션 간의 표준 인터페이스를 제공하기 위한 서버이며, 일반적으로 `starlette`, `uvicorn` 을 사용한다.
 > uvicorn은 `uvloop`와 `httptools`를 이용하여 ASGI를 구현한 서버이다. `uvloop`는 NodeJS V8 엔진에서 사용하는 libuv를 기반으로 작성되어 Node.js와 같은 비동기 처리 속도를 어느 정도 누를 수 있다는 장점이 있다.  
 
-<br>
+<br>  
+
 다음과 같은 **<u>WSGI의 한계</u>**로 인하여 ASGI가 등장하게 되었다.
 - `wsgi.websocket`을 사용할 수 있으나 표준화되지 않았다.
 - HTTP/2(Concurrency) 동시성을 적용할 수 없다.
