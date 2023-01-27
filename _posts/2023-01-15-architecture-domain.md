@@ -1,5 +1,5 @@
 ---
-title: "[Architecture] Domain model"
+title: "[파이썬으로 살펴보는 아키텍처 패턴] Domain model"
 date: 2023-01-15
 categories: [Programming, Architecture]
 tags: [Architecture, Python, Domain]
