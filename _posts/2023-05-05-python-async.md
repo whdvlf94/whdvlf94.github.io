@@ -2,7 +2,7 @@
 title: "[Python] Python 비동기 asyncio 사용하기"
 date: 2023-05-05
 categories: [Programming, Python]
-tags: [Python, asyncio]
+tags: [Python, asyncio, GIL]
 layout: post
 toc: true
 ---
