@@ -1,5 +1,5 @@
 ---
-title: "[Docker] Best practices for Dockerfile"
+title: "[Docker] Best practices for Dockerfile - (3/3)"
 date: 2023-08-17
 categories: [Infra, Docker]
 tags: [Docker, Dockerfile]

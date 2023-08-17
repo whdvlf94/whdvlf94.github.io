@@ -1,5 +1,5 @@
 ---
-title: "[Docker] Docker 이미지 최적화(with Node.js)"
+title: "[Docker] Docker 이미지 최적화(with Node.js) - (1/3)"
 date: 2023-08-17
 categories: [Infra, Docker]
 tags: [Docker]
